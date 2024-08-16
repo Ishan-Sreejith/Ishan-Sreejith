@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ishan-Sreejith
 - 👀 I’m interested in app and web development
-- 🌱 I’m currently learning advanced web development
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me email:ishansreejith10@gmail.com
+- 🌱 I’m currently learning basic app development in Flutter
+- 🗿 I’m looking to collaborate on projects
+- 📫 How to reach me by email: ishansreejith10@gmail.com
+- 😎 Areas of expertise: HTML, React Native, JS, Flutter, Python, Dart, CSS
